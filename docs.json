@@ -14,35 +14,24 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Coffee Export Basics",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "introduction",
+              "quality-standards",
+              "sourcing"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Processing & Compliance",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "processing",
+              "export-docs"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Logistics & Shipping",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "logistics"
             ]
           }
         ]
@@ -102,15 +91,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
